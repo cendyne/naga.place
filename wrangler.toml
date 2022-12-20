@@ -1,0 +1,4 @@
+name = "nagaplace"
+main = "src/index.ts"
+compatibility_date = "2022-11-12"
+route = "naga.place/*"
