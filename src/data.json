@@ -5,7 +5,9 @@
   "ibzan": ["mastodon", "queer.party", "ibzan"],
   "vega": ["mastodon", "merveilles.town", "vega"],
   "nicuuut": ["mastodon", "lile.cl", "nicuuut"],
-  "daud": ["mastodon", "meow.social", "daud"],
+  "daud": ["mastodon", "furry.engineer", "daud"],
   "cadey": ["mastodon", "pony.social", "cadey"],
-  "charlotte": ["akkoma", "akko.chir.rs", "charlotte"]
+  "charlotte": ["akkoma", "akko.chir.rs", "charlotte"],
+  "agentydragon": ["mastodon", "mastodon.social", "agentydragon"],
+  "syne": ["mastodon", "slowest.network", "syne"]
 }
